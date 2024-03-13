@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<DTS:Executable xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:refId="Package"
+  DTS:CreationDate="3/13/2024 10:59:42 AM"
+  DTS:CreationName="Microsoft.Package"
+  DTS:CreatorComputerName="LAPTOP-3B0VFA6T"
+  DTS:CreatorName="LAPTOP-3B0VFA6T\durga"
+  DTS:DTSID="{CF486DFE-56A4-4CC8-84DE-76C135ABB353}"
+  DTS:ExecutableType="Microsoft.Package"
+  DTS:LastModifiedProductVersion="16.0.5223.0"
+  DTS:LocaleID="3081"
+  DTS:ObjectName="PackagePart1"
+  DTS:PackageType="5"
+  DTS:VersionGUID="{0AFE7D4F-880B-4CE3-9701-93C6B518FBCF}">
+  <DTS:Property
+    DTS:Name="PackageFormatVersion">8</DTS:Property>
+  <DTS:Variables />
+  <DTS:Executables />
+</DTS:Executable>
